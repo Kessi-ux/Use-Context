@@ -1,0 +1,22 @@
+/* App.module.css */
+
+.root {
+    /* styles for the root div */
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .light {
+    /* styles for the light theme button */
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark {
+    /* styles for the dark theme button */
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  /* You can define more styles as needed */
+  
